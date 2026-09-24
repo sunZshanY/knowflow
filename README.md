@@ -30,7 +30,14 @@ knowflow/
 ## 启动方式
 
 ### 前端（无需后端）
-直接用浏览器打开 `knowflow/index.html`。数据存储在浏览器 localStorage。
+使用npm运行
+```npm
+```npm 
+npm run dev 
+```
+
+```
+
 
 ### Python 后端
 ```bash
